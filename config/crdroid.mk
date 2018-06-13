@@ -25,7 +25,6 @@ EXCLUDE_SYSTEMUI_TESTS := true
 PRODUCT_PACKAGES += \
     crDroidFonts \
     crDroidHome3 \
-    crDroidMusic \
     crDroidWallpapers \
     OmniJaws \
     OmniStyle
@@ -45,4 +44,3 @@ PRODUCT_BOOT_JARS += \
 
 PRODUCT_PACKAGES += \
    org.dirtyunicorns.utils
-
